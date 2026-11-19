@@ -55,8 +55,8 @@
 要求：Claude Code 2.1.x 或更高版本。
 
 ```bash
-git clone git@github.com:DavidTeam2008/ios-architect--agent.git
-cd ios-architect--agent
+git clone git@github.com:DavidTeam2008/ios-architect-agent.git
+cd ios-architect-agent
 ./install.sh
 ```
 
